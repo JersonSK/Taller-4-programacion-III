@@ -2,6 +2,7 @@
 
 ## Descripción
 **ES IMPORTANTE MENCIONAR QUE ES NECESARIO USAR COMMAND PROMPT EN LUGAR DE POWERSHELL EN VISUAL STUDIO**
+
 Sistema de gestión de socios para un gimnasio implementado en Elixir. Permite registrar socios, inscribirlos en clases y persistir la información en un archivo CSV.
 
 ## Estructura del proyecto
