@@ -1,0 +1,1 @@
+{application,gimnasio,[{modules,['Elixir.Gimnasio','Elixir.Gimnasio.Application','Elixir.Gimnasio.GestionArchivos','Elixir.Gimnasio.Logica','Elixir.Gimnasio.Menu','Elixir.Gimnasio.Socio']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"gimnasio"},{registered,[]},{vsn,"0.1.0"},{mod,{'Elixir.Gimnasio.Application',[]}}]}.
