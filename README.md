@@ -1,4 +1,4 @@
-# Gimnasio - Taller 4: Structs, Mapas y Manejo de Archivos en Elixir
+# Gimnasio ejercicio 1 Taller 4
 
 ## Descripción
 **ES IMPORTANTE MENCIONAR QUE ES NECESARIO USAR COMMAND PROMPT EN LUGAR DE POWERSHELL EN VISUAL STUDIO**
